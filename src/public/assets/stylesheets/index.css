@@ -114,7 +114,6 @@ aside h2 {
   padding: 0 1vmin;
   font-family: Orbitron;
   font-weight: bolder;
-  font-size: x-large;
   font-variant: all-small-caps;
   pointer-events: none;
   filter: sepia(0.5);
@@ -255,6 +254,7 @@ footer a:hover {
     justify-content: center;
     background: transparent;
     color: #eee;
+    font-size: x-large;
   }
   .illustration .right {
     padding: 0 0 0 5vmin;

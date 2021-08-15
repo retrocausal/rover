@@ -2,7 +2,6 @@ import rovers from "../config.js";
 document.addEventListener("DOMContentLoaded", function () {
   const selectorCarousel = document.querySelector(".carousel .gallery");
   function createSelectors(list = [], images = []) {
-    console.log(list);
     if (list.length < 1) {
       return images;
     }
