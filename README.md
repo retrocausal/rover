@@ -1,10 +1,11 @@
 # rover
 
-##Install
+## Install
  - Clone the repository
  - CD to root
  - Run Yarn install
-##Usage
+
+## Usage
  - CD to root
  - Run yarn start
  - navigate to http://localhost:3000/
